@@ -1,0 +1,6 @@
+@SkiBackend_HostAddress = http://localhost:5000
+
+GET {{SkiBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
